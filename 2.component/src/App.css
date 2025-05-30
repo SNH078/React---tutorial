@@ -1,0 +1,10 @@
+.student {
+    font-size: 2 em;
+    padding : 10px;
+    font-family: Arial,sans-serif;
+    border :2px solid  hsla(0, 0%, 50%, 0.243);
+    box-shadow: 2px 2px black;
+    margin: 0;
+    
+
+}
